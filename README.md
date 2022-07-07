@@ -43,3 +43,26 @@ The goal of our analysis is to determine the overall passing percentages of the 
 
 ![bottom_schools](https://user-images.githubusercontent.com/105666905/177880724-e71311c4-4816-437a-9dff-84b7d900d589.png)
 
+## Results
+
+When we compared the refactored analysis of removing the 9th grades from Thomas High School PyCitySchools, we found that our school summary df was impacted:
+- Percentage Passing Math  went down .2% and reading went down .3%
+- Percentage Overall passing went from 65% to 64.9
+
+To some extent, the school summary for Thomas High School:
+- Percentage Passing Math went up to 97.0% from 93.3%
+- Percentage Passing Reading went down 90.1% from 97.3%
+
+Replacing the 9th graders form Thomas High Schools grade with a 'nan'  has an affect as it is a higher ranking school.
+- Smaller budgets with high performance can be reduced now that the school is accused of cheating and is analyzing Spending Ranges (Per Student)
+- Overall, the school's performance remains unaffected, therefore we may conclude that the 9th graders would have likely scored in the similar range.
+
+Replacing the ninth-grade scores affect the following;
+
+- The Average Math Score went from 79 to 78.9 %
+- The Average Reading Score remains 81.9 %
+- Percentage Passing Math decrease from 75 - 74.8%
+- Percentage Passing Reading also 86% - 85.7%
+- The overall Passing went from 65 - 64.9%
+
+## Summary
