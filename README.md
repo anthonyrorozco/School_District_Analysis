@@ -45,11 +45,11 @@ The goal of our analysis is to determine the overall passing percentages of the 
 
 ## Results
 
-When we compared the refactored analysis of removing the 9th grades from Thomas High School PyCitySchools, we found that our school summary df was impacted:
+When we compared the refactored analysis of removing the 9th grades from Thomas High School PyCitySchools, we found that our Disctrict Summary was impacted:
 - Percentage Passing Math  went down .2% and reading went down .3%
 - Percentage Overall passing went from 65% to 64.9
 
-To some extent, the school summary for Thomas High School:
+To some extent, the school summary for Thomas High School was affected:
 - Percentage Passing Math went up to 97.0% from 93.3%
 - Percentage Passing Reading went down 90.1% from 97.3%
 
@@ -66,3 +66,7 @@ Replacing the ninth-grade scores affect the following;
 - The overall Passing went from 65 - 64.9%
 
 ## Summary
+1. The data for Thomas High School's ninth graders will now be a "NaN." The more data we have to base our decisions on, the more precise our decisions may be in the future.
+2. The school district witnessed less than a 1% fluctuation in its overall passing percentage, therefore the punishment for the high school should not be too severe.
+3. One issue that may be affected is that the Spending Ranges (Per Student) are less precise now that a complete school's 9th graders grades are absent.
+4. We detected adjustments in math and reading scores, but nothing so extreme that our data is no longer flush.
