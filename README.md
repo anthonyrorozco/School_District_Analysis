@@ -63,7 +63,7 @@ Replacing the ninth-grade scores affect the following;
 - The Average Reading Score remains 81.9 %
 - Percentage Passing Math decrease from 75 - 74.8%
 - Percentage Passing Reading also 86% - 85.7%
-- The overall Passing went from 65 - 64.9%
+- The Overall Passing went from 65 - 64.9%
 
 ## Summary
 1. The data for Thomas High School's ninth graders will now be a "NaN." The more data we have to base our decisions on, the more precise our decisions may be in the future.
