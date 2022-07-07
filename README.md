@@ -1,6 +1,6 @@
 # School_District_Analysis
 ## Project Overview
-The goal of our analysis is to determine the overall passing percentages of the students and determine whether or not there is a relationship between the budget per student. We learned that 9th graders at Thomas High School were reportedly cheating, and we would like to delete the math and reading scores from the summary. Because some values are absent, we want to use all of the high school scores so that our overall figures are not affected.
+The goal of our analysis is to determine the overall passing percentages of the students and determine whether or not there is a relationship between the budget per student. We learned that 9th graders at Thomas High School were reportedly altered, and we would like to delete the math and reading scores from the summary. Because some values are absent, we want to use all of the high school scores so that our overall figures are not affected.
 
 ### Results
 - District Summary Total
